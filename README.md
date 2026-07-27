@@ -101,7 +101,7 @@ E-Commerce_Sales_Analysis/
 ├── README.md
 ├── Dashboard.png
 ├── E-commerce_sales_Dashboard.pbix
-├── MTD Report.png
+├── MTDReport.png
 └── Mobile Sales Data-1.xlsx
 ```
 
